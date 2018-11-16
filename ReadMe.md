@@ -1,5 +1,5 @@
 
-# sklearn 用 SVM,RandomForest,XGBoost 多分类
+# 用 SVM,RandomForest,XGBoost 多分类
 
 
 
